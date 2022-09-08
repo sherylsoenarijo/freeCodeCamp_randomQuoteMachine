@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    vertical-align: baseline;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+div {
+    position: relative;
+    z-index: 2;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    color: #333;
+    align-items: center;
+}
+
+#quote-box {
+    margin-top: 7em;
+    padding: 3em 4em;
+    background-color: #eee;
+    border-radius: 10px;
+}
+
+#text {
+    font-size: 1.5em;
+}
+
+#author {
+    padding: .75em 0 .90em 0 ;
+    font-size: 1em;
+    text-align: center;
+}
+
+#tweet-quote {
+    color: #eee;
+}
+
+#allButtons {
+    text-align: center;
+}
+
+button {
+    box-shadow: none;
+    border-style: none;
+}

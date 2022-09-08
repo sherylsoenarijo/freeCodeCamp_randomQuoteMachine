@@ -23,11 +23,11 @@ body {
     padding: 3em 4em;
     background-color: #eee;
     border-radius: 10px;
+    text-align: center;
 }
 
 #text {
     font-size: 1.5em;
-    text-align: center;
 }
 
 #author {
